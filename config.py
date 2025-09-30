@@ -1,0 +1,5 @@
+DB_USER = "postgres"
+DB_PASS = "5432"
+DB_NAME = "newdatabase"
+DB_HOST = "localhost"
+DB_PORT = "5432"
